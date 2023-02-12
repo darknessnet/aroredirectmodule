@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>aroredirectmodule</name>
+    <displayName><![CDATA[Redirect URL 301, 302 and 404]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Redirect URL module in PrestaShop is a tool that allows administrators to redirect specific URLs to another URL. This can be useful in a variety of situations, such as when a product has been discontinued and a similar product is available.]]></description>
+    <author><![CDATA[Aroshiya]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
